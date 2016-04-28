@@ -6,7 +6,13 @@ public class GitExample {
 
 	public void doSomething() {
 		int i = 0;
-		int j = 0;
+		i = 1;
+	}
+
+	public int anotherFunction() {
+		int i = 7;
+		
+		return i;
 	}
 
 }
