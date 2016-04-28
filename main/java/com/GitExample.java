@@ -6,6 +6,7 @@ public class GitExample {
 
 	public void doSomething() {
 		int i = 0;
+		int j = 0;
 	}
 
 }
