@@ -12,6 +12,8 @@ public class GitExample {
 	public int anotherFunction() {
 		int i = 7;
 		
+		System.out.println("A very new string.");
+		
 		return i;
 	}
 
